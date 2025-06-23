@@ -1,0 +1,19 @@
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore editor backups
+*~
+*.swp
+
+# Ignore Packet Tracer autosave
+*.bak
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore large files accidentally copied
+*.iso
+*.zip
+*.pcap
